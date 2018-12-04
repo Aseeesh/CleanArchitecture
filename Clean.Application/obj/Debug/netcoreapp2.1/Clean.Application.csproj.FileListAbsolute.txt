@@ -1,0 +1,12 @@
+C:\Users\Ashish\source\repos\Clean.WebApi\Clean.Application\bin\Debug\netcoreapp2.1\Clean.Application.deps.json
+C:\Users\Ashish\source\repos\Clean.WebApi\Clean.Application\bin\Debug\netcoreapp2.1\Clean.Application.dll
+C:\Users\Ashish\source\repos\Clean.WebApi\Clean.Application\bin\Debug\netcoreapp2.1\Clean.Application.pdb
+C:\Users\Ashish\source\repos\Clean.WebApi\Clean.Application\obj\Debug\netcoreapp2.1\Clean.Application.csprojAssemblyReference.cache
+C:\Users\Ashish\source\repos\Clean.WebApi\Clean.Application\obj\Debug\netcoreapp2.1\Clean.Application.csproj.CoreCompileInputs.cache
+C:\Users\Ashish\source\repos\Clean.WebApi\Clean.Application\obj\Debug\netcoreapp2.1\Clean.Application.AssemblyInfoInputs.cache
+C:\Users\Ashish\source\repos\Clean.WebApi\Clean.Application\obj\Debug\netcoreapp2.1\Clean.Application.AssemblyInfo.cs
+C:\Users\Ashish\source\repos\Clean.WebApi\Clean.Application\obj\Debug\netcoreapp2.1\Clean.Application.dll
+C:\Users\Ashish\source\repos\Clean.WebApi\Clean.Application\obj\Debug\netcoreapp2.1\Clean.Application.pdb
+C:\Users\Ashish\source\repos\Clean.WebApi\Clean.Application\bin\Debug\netcoreapp2.1\Clean.Domain.dll
+C:\Users\Ashish\source\repos\Clean.WebApi\Clean.Application\bin\Debug\netcoreapp2.1\Clean.Domain.pdb
+C:\Users\Ashish\source\repos\Clean.WebApi\Clean.Application\obj\Debug\netcoreapp2.1\Clean.Application.csproj.CopyComplete
